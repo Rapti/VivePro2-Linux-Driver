@@ -17,7 +17,7 @@ index 3841aba17abd..767a3e3fa6e1 100644
  	EDID_QUIRK('V', 'L', 'V', 0x91bf, BIT(EDID_QUIRK_NON_DESKTOP)),
  
 -	/* HTC Vive and Vive Pro VR Headsets */
-+	/* HTC Vive, Vive Cosmos, Vive Pro and Vive Pro 2 VR Headsets */
++	/* HTC Vive, Vive Pro, Vive Cosmos and Vive Pro 2 VR Headsets */
  	EDID_QUIRK('H', 'V', 'R', 0xaa01, BIT(EDID_QUIRK_NON_DESKTOP)),
  	EDID_QUIRK('H', 'V', 'R', 0xaa02, BIT(EDID_QUIRK_NON_DESKTOP)),
 +	EDID_QUIRK('H', 'V', 'R', 0xaa03, BIT(EDID_QUIRK_NON_DESKTOP)),
